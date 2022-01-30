@@ -10,8 +10,11 @@
 ### Equipe pédagogique :
 
 Christophe Casseau (Responsable de l'UE) --> groupe B5 (30)
+
 Thibault Hilaire --> groupe B6 (17)
+
 Paul Ouvrard --> groupe A1+ISI201 + A2+PI + A5 + B2 (16)
+
 Alexandre Blanché --> B1+PI (16)
 
 ### Contact :
