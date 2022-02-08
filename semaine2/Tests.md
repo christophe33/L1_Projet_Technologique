@@ -54,8 +54,28 @@ Les tests doivent être séparés de l'implémentation de notre application. Il 
 * Prenons la classe FileRepo et posons nous les questions:  
 
 	1. Que pouvons-nous tester ? Nous pouvons par exemple vérifier que le fichier CSV que nous obtenons est conforme à nos attente. 
-	1. Comment faire cela ? Le principe est simple à partir d'un jeu de données d'entrée nous allons écrire le fichier CSV attendu et le comparer au fichier créé par la fonction **saveFileCSV**.
+	1. Comment faire cela ? C'est toute la difficulté....
 
 * Un exemple très complet avec le module **unittest** de Python : [vidéo](https://www.youtube.com/watch?v=apgReCCAQr4).
 
+# Tests et couverture de code
 
+La couverture du code est une mesure (métrique) du nombre de lignes de votre code exécutés pendant l'exécution des tests automatisés.
+
+Parler du taux de couverture implique de comprendre cet indicateur, ce qui n'est pas si simple... On distingue plusieurs types de taux de couverture, en voici quelques-uns :
+
+* La couverture de lignes : les tests sont lancés, chaque ligne sur laquelle un test passe est considérée comme couverte ;
+* La couverture de branches : les tests sont lancés, chaque branche du code dans laquelle un test passe est considérée comme couverte. Par exemple, un **if(valeurA and valeurB)** contient 4 branches 
+	* false and false, 
+	* false and true 
+	* true and false
+	* true and true 
+	
+mais la première et la seconde sont identiques en terme d'exécution ;
+* La couverture de mutation : Un changement est fait dans le code (changement d'une condition, d'une valeur, …) et on lance les tests passants dans le code modifié. Si les tests passent encore alors le cas n'est pas couvert.
+
+Quand on parle de taux de couverture on parle des deux premiers types : dans quelles parties de mon code passent mes tests ?
+
+Bien qu'étant un indicateur intéressant le taux de couverture ne permet pas de mesurer :
+* La pertinence des tests : il est tout à fait possible de faire des tests qui n'ont aucune valeur
+* La qualité des tests : De manière générale le taux de couverture ne donne aucune indication sur la qualité des tests qui ont été écrits.
