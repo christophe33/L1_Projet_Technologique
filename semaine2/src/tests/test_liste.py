@@ -37,10 +37,8 @@ class Test_liste(unittest.TestCase):
         self.__liste.addLast(self.__third)
         self.assertTrue(self.__liste.getFirst() is self.__second)
         self.assertTrue(self.__liste.getLast() is self.__third)
-
-    def test_listInOrder(self):
-        self.__liste.addFirst(self.__third)
-        self.assertEqual(self.__liste.__str__(), "third -> second -> first -> ")
     
 if __name__ == '__main__':
     unittest.main(verbosity=2)
+    
+    
