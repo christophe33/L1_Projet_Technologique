@@ -17,7 +17,9 @@ Paul Ouvrard --> groupe A1+ISI201 + A2+PI + A5 + B2 (16)
 
 Alexandre Blanché --> B1+PI (16)
 
-### Organisation :
+## Organisation du l'UE 4TPU217U:
+
+### Conduite de projet et conception logiciel : VideoTracker
 
 **Semaine 1:**
 
@@ -30,13 +32,31 @@ Alexandre Blanché --> B1+PI (16)
 
 **Semaine 2:**
 
-* Réalisation d'une exigence et des tâches associées
+* Rappels sur la POO python
+* Implémentation des tâches associées à une exigence du projet
+
 
 **Semaine 3:**
 
-* Les tests  
+* Les tests 
 	* Tests unitaires --> unittest
 	* Couverture de code --> coverage
+	* Application à VideoTracker
+	
+**Semaine 4:**
+
+* Introduction à l'architecture MVC
+* Une IHM c'est quoi ?
+
+**Semaine 5:**
+
+* Application à l'IHM de VideoTracker
+
+**Semaine 6:**
+
+* Introduction à git
+* Gestion des besoins (issues) et des tâches (tasks) avec git
+
 	
 ### Contact :
 prenom.nom@u-bordeaux.fr
