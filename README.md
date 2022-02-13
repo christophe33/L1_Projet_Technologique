@@ -17,5 +17,20 @@ Paul Ouvrard --> groupe A1+ISI201 + A2+PI + A5 + B2 (16)
 
 Alexandre Blanché --> B1+PI (16)
 
+### Organisation :
+
+**Semaine 1:**
+
+* Un logiciel c'est quoi ?
+* Cycle de vie d'un logiciel
+* Cycle de développement 
+	* Besoins
+	* Exigences
+	* Tâches
+
+**Semaine 2:**
+
+* Réalisation d'une exigence et des tâches associées
+
 ### Contact :
 prenom.nom@u-bordeaux.fr
