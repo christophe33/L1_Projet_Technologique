@@ -32,5 +32,11 @@ Alexandre Blanché --> B1+PI (16)
 
 * Réalisation d'une exigence et des tâches associées
 
+**Semaine 3:**
+
+* Les tests  
+	* Tests unitaires --> unittest
+	* Couverture de code --> coverage
+	
 ### Contact :
 prenom.nom@u-bordeaux.fr
