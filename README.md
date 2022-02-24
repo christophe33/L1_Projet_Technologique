@@ -60,7 +60,7 @@ Alexandre Blanché --> B1+PI (16)
 
 **Semaine 7:**
 * Gestion des besoins (issues) et des tâches (tasks) avec Git
-* Mise en place avec le projet VideoTracker
+* Utilisation de Git pour l'IHM de VideoTracker
 
 	
 ### Contact :
