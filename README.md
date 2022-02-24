@@ -50,7 +50,8 @@ Alexandre Blanché --> B1+PI (16)
 
 **Semaine 5:**
 
-* Application à l'IHM de VideoTracker
+* Besoins et exigences pour l'IHM de VideoTracker
+* Élaborations des tâches de l'IHM
 
 **Semaine 6:**
 
