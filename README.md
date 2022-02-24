@@ -54,11 +54,11 @@ Alexandre Blanché --> B1+PI (16)
 
 **Semaine 6:**
 
-* Introduction à git
+* Introduction à Git
 * Mise en place de git avec le projet VideoTracker
 
 **Semaine 7:**
-* Gestion des besoins (issues) et des tâches (tasks) avec git
+* Gestion des besoins (issues) et des tâches (tasks) avec Git
 * Mise en place avec le projet VideoTracker
 
 	
