@@ -4,7 +4,7 @@
 
 ### Modalités de contrôle des connaissances :
 
-* 4 rendus à effectuer, les dates vous seront communiquées durant le semestre
+* 3 rendus à effectuer, les dates vous seront communiquées durant le semestre
 * Une présentation finale
 
 ### Equipe pédagogique :
