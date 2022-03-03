@@ -62,6 +62,10 @@ Alexandre Blanché --> B1+PI (16)
 * Gestion des besoins (issues) et des tâches (tasks) avec Git
 * Utilisation de Git pour l'IHM de VideoTracker
 
+**Semaine 8:**
+* Qualité du code, mise en place de métriques
+* Utilisation d'un linter
+
 	
 ### Contact :
 prenom.nom@u-bordeaux.fr
