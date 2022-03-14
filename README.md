@@ -59,7 +59,8 @@ Alexandre Blanché --> B1+PI (16)
 * Démarrer un projet VideoTracker dans GitLab
 
 **Semaine 7:**
-* Gestion des besoins (issues) et des tâches (tasks) avec Git
+* Gestion des besoins (issues) et des tâches (tasks) avec GitLab
+* Mise en place d'un jalon (milestone)
 * Utilisation de GitLab pour l'IHM de VideoTracker
 
 **Semaine 8:**
