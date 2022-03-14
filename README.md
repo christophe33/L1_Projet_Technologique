@@ -56,7 +56,7 @@ Alexandre Blanché --> B1+PI (16)
 **Semaine 6:**
 
 * Introduction à Git
-* Mise en place de GitLab avec le projet VideoTracker
+* Démarrer un projet VideoTracker dans GitLab
 
 **Semaine 7:**
 * Gestion des besoins (issues) et des tâches (tasks) avec Git
