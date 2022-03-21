@@ -64,8 +64,9 @@ Alexandre Blanché --> B1+PI (16)
 * Utilisation de GitLab pour l'IHM de VideoTracker
 
 **Semaine 8:**
-* Qualité du code, mise en place de métriques
-* Utilisation d'un linter
+* Initiation à l'intégration continue
+* Développement guidé par les tests
+* Tests de non regression
 
 	
 ### Contact :
