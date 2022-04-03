@@ -68,8 +68,7 @@ Alexandre Blanché --> B1+PI (16)
 * Initiation à l'intégration continue
 
 **Semaine 9:**
-* Développement guidé par les tests
-* Tests de non regression
+* L'agilité en génie logiciel
 
 	
 ### Contact :
