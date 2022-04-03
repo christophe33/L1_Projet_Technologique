@@ -66,6 +66,8 @@ Alexandre Blanché --> B1+PI (16)
 **Semaine 8:**
 * Regarder la vidéo suivante : https://www.youtube.com/watch?v=hBCaoN421Qs}
 * Initiation à l'intégration continue
+
+**Semaine 9:**
 * Développement guidé par les tests
 * Tests de non regression
 
