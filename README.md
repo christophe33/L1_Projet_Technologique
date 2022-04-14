@@ -68,7 +68,6 @@ Alexandre Blanché --> B1+PI (16)
 * Initiation à l'intégration continue
 
 **Semaine 9:**
-* Diaporama et lien vidéo vers la méthode SCRUM
 * L'agilité en génie logiciel
 
 	
