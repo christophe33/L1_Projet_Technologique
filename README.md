@@ -69,7 +69,6 @@ Alexandre Blanché --> B1+PI (16)
 
 **Semaine 9:**
 * Diaporama et lien vidéo vers la méthode SCRUM
-	* https://webmel.u-bordeaux.fr/service/home/~/?auth=co&loc=fr&id=544906&part=2
 * L'agilité en génie logiciel
 
 	
