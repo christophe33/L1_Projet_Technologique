@@ -68,7 +68,7 @@ Alexandre Blanché --> B1+PI (16)
 * Initiation à l'intégration continue
 
 **Semaine 9:**
-* L'agilité en génie logiciel
+* L'agilité en génie logiciel 
 
 	
 ### Contact :
