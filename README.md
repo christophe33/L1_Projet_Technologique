@@ -9,13 +9,11 @@
 
 ### Equipe pédagogique :
 
-Christophe Casseau (Responsable de l'UE) --> groupe B5 (30)
+Christophe Casseau --> groupe B3
 
-Thibault Hilaire --> groupe B6 (17)
+Thibault Hilaire --> groupe B2
 
-Paul Ouvrard --> groupe A1+ISI201 + A2+PI + A5 + B2 (16)
-
-Alexandre Blanché --> B1+PI (16)
+Lasserre Alice --> groupe B1
 
 ## Organisation du l'UE 4TPU217U:
 
@@ -23,51 +21,49 @@ Alexandre Blanché --> B1+PI (16)
 
 **Semaine 1:**
 
+* Rappels sur la POO python
+* Introduction à l'architecture MVC
+
+**Semaine 2:**
+
 * Un logiciel c'est quoi ?
 * Cycle de vie d'un logiciel
 * Cycle de développement 
 	* Besoins
 	* Exigences
 	* Tâches
-
-**Semaine 2:**
-
-* Rappels sur la POO python
-* Implémentation des tâches associées à une exigence du projet
-
+* Présentation du logiciel VidéoTracker
+* Présentation d'une exigence liée à VidéoTracker
 
 **Semaine 3:**
+
+* Introduction à Git
+* Démarrer un projet VideoTracker dans GitLab
+* Implémentation des tâches associées à une exigence du projet
+
+**Semaine 4:**
+
+* Besoins et exigences pour l'IHM de VideoTracker
+* Élaborations des tâches de l'IHM
+
+**Semaine 5:**
+
+* Gestion des besoins (issues) et des tâches (tasks) avec GitLab
+* Mise en place d'un jalon (milestone)
+
+**Semaine 6:**
 
 * Les tests 
 	* Tests unitaires --> unittest
 	* Couverture de code --> coverage
 	* Application à VideoTracker
 	
-**Semaine 4:**
-
-* Introduction à l'architecture MVC
-* Une IHM c'est quoi ?
-
-**Semaine 5:**
-
-* Besoins et exigences pour l'IHM de VideoTracker
-* Élaborations des tâches de l'IHM
-
-**Semaine 6:**
-
-* Introduction à Git
-* Démarrer un projet VideoTracker dans GitLab
 
 **Semaine 7:**
-* Gestion des besoins (issues) et des tâches (tasks) avec GitLab
-* Mise en place d'un jalon (milestone)
-* Utilisation de GitLab pour l'IHM de VideoTracker
-
-**Semaine 8:**
 * Regarder la vidéo suivante : https://www.youtube.com/watch?v=hBCaoN421Qs}
 * Initiation à l'intégration continue
 
-**Semaine 9:**
+**Semaine 8:**
 * L'agilité en génie logiciel 
 
 	
