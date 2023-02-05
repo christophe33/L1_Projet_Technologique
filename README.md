@@ -13,7 +13,7 @@ Christophe Casseau --> groupe B3
 
 Thibault Hilaire --> groupe B2
 
-Lasserre Alice --> groupe B1
+Alice Lasserre  --> groupe B1
 
 ## Organisation du l'UE 4TPU217U:
 
