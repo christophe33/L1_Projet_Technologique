@@ -15,7 +15,7 @@ Thibault Hilaire --> groupe B2
 
 Alice Lasserre  --> groupe B1
 
-## Organisation du l'UE 4TPU217U:
+## Organisation du l'UE 4TPU269U:
 
 ### Conduite de projet et conception logiciel : VideoTracker
 
