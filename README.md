@@ -50,6 +50,7 @@ Alice Lasserre  --> groupe B1
 
 * Gestion des besoins (issues) et des tâches (tasks) avec GitLab
 * Mise en place d'un jalon (milestone)
+* Gestion des conflits avec git
 
 **Semaine 6:**
 
